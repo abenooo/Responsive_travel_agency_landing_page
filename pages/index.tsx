@@ -2,9 +2,9 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
-import Services from '../components/services'
+import Services from '../components/Services'
 import MainPage from '../components/MainPage'
-import Destination from '../components/destination'
+import Destination from '../components/Destination'
 import Notify from '../components/Notify'
 const Home: NextPage = () => {
   return (
